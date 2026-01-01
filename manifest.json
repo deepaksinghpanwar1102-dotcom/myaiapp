@@ -1,0 +1,17 @@
+
+{
+  "short_name": "StThomasResult",
+  "name": "St. Thomas School Result Portal",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8B0000",
+  "background_color": "#ffffff"
+}
